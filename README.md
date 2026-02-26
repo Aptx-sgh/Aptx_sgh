@@ -5,7 +5,7 @@
 
 <img src="https://github.com/user-attachments/assets/e2afa363-fb60-49d8-ad8d-071b528585ef" width="100"/> <div align="left">
 
-<![1f953c34a9825342b462d8f4387c1fcc]("https://github.com/user-attachments/assets/8211eb8b-ec2a-4842-8c76-4687c342b5eb") width="500">
+![1f953c34a9825342b462d8f4387c1fcc]("https://github.com/user-attachments/assets/8211eb8b-ec2a-4842-8c76-4687c342b5eb") 
 
  
 <img src="https://github.com/user-attachments/assets/e2afa363-fb60-49d8-ad8d-071b528585ef" width="100"/> <div align="right">
