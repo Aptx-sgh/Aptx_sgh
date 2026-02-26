@@ -1,4 +1,4 @@
- >![f475102448d885257de44deccee750f0](https://github.com/user-attachments/assets/811fd731-7387-48c5-9bd2-31b38d7602f9)<  <div align="center"> 
+<img src="https://github.com/user-attachments/assets/811fd731-7387-48c5-9bd2-31b38d7602f9" width="100"/>  <div align="center"> 
 
 
 ## 🌸 仙乐太子 | Crimson Rain Seeks the Flower 🌸
