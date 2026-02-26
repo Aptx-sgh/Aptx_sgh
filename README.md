@@ -26,7 +26,7 @@ then my dream is only you."
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Heaven-Off-rhino?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Heaven-Off-gray?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Ghost City-Crimson-maroon?style=for-the-badge"/>
 </p>
 
