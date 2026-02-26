@@ -7,8 +7,9 @@
 
  <img src="https://github.com/user-attachments/assets/08f80254-f778-44c6-a3b2-91715460fa22" width="500"/>
  
-<img src="https://github.com/user-attachments/assets/e2afa363-fb60-49d8-ad8d-071b528585ef" width="100"/> <div align="right">
----
+<img src="https://github.com/user-attachments/assets/e2afa363-fb60-49d8-ad8d-071b528585ef" width="101"/> <div align="right">
+
+-----
 
 ### "If your dream is to save the common people,  
 then my dream is only you."
