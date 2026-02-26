@@ -1,4 +1,4 @@
-*** <div align="center"> <img src="https://github.com/user-attachments/assets/811fd731-7387-48c5-9bd2-31b38d7602f9" width="300"/> ***
+- <div align="center"> <img src="https://github.com/user-attachments/assets/811fd731-7387-48c5-9bd2-31b38d7602f9" width="300"/> -
 
 
 ## 🌸 仙乐太子 | Crimson Rain Seeks the Flower 🌸
@@ -14,9 +14,9 @@ then my dream is only you."
 
 ---
 
-✨ A wandering soul writing stories between heaven and ghost realm.  
+    ✨ A wandering soul writing stories between heaven and ghost realm.  
 🕊 Devotion carved across 800 years.  
-🌙 Soft heart, sharp pen.
+      🌙 Soft heart, sharp pen.
 
 ---
 
@@ -26,7 +26,7 @@ then my dream is only you."
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Heaven Off-silver?style=for-the-badge"/> - - - -
+  <img src="https://img.shields.io/badge/Heaven Off-intrigue?style=for-the-badge"/> - - - -
   <img src="https://img.shields.io/badge/Ghost City-maroon?style=for-the-badge"/>
 </p>
 
