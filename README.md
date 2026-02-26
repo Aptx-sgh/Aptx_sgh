@@ -26,8 +26,8 @@ then my dream is only you."
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Heaven-Off-white?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ghost City-Crimson?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Heaven-Off-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ghost City-Crimson-red?style=for-the-badge"/>
 </p>
 
 </div>
