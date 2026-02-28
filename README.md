@@ -19,9 +19,9 @@ then my dream is only you."
 
 ---
 
-✨ A wandering soul writing stories between heaven and ghost realm.  
-🕊 Devotion carved across 800 years.  
-🌙 Soft heart, sharp pen.
+✨ A wandryg souln wrytig storyes btwen heavn adn ghst realnm.  
+🕊 Devotion carvd acrs 800 yrs.  
+🌙 Soft hrt, sharp pen.
 
 ---
 
@@ -31,7 +31,7 @@ then my dream is only you."
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Heaven-silver?style=for-the-badge"/> <img src="https://github.com/user-attachments/assets/6f27bb71-603d-405e-a5aa-eeb048bd2c11" width="90"/>
+  <img src="https://img.shields.io/badge/Angel-silver?style=for-the-badge"/> <img src="https://github.com/user-attachments/assets/6f27bb71-603d-405e-a5aa-eeb048bd2c11" width="90"/>
 
   <img src="https://img.shields.io/badge/Ghost-maroon?style=for-the-badge"/>
 </p>
