@@ -1,7 +1,7 @@
  <div align="center"> <img src="https://github.com/user-attachments/assets/811fd731-7387-48c5-9bd2-31b38d7602f9" width="300"/> 
  
 
-## 🌸 仙乐太子 | Crimson Rain Seeks the Flower 🌸
+## 🌸 仙乐太子 | Crmson  sek flwrs 🌸
 
 <img src="https://github.com/user-attachments/assets/e2afa363-fb60-49d8-ad8d-071b528585ef" width="100"/> <div align="left">
 
