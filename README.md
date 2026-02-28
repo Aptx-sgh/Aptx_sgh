@@ -25,8 +25,8 @@ then my dream is only you."
 
 ---
 
-🔗 Main Account:  
-[Your Main Github](https://github.com/yourmain)
+🔗 Main Accnt:  
+[Your Main Github](https://github.com/aptx-sgh)
 
 ---
 
